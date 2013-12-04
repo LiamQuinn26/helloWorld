@@ -7,5 +7,6 @@
 	</head>
 	<body>
 		<h1>Hello World</h1>
+		<g:link controller="sayHello">Say Hello!</g:link>
 	</body>
 </html>
